@@ -1,0 +1,21 @@
+Pengukuran QoS 
+
+Throughput : 
+Jumlah Bytes / timespan = 21686403 / 259.213 s
+			= 83662 Bytes/s
+			= 83.662 KB/s
+			= 83.662 KB/s x 8
+			= 669 Kb/s
+
+Delay : Total Delay = 259,212792 s
+	Rata-Rata Delay = 0,008602575 s = 8,602575ms
+
+
+Packet Loss : (((Paket dikirim - Paket diterima)/Paket dikirim)x100) 
+		= (((30133 - 30130)/30133)x100)
+		= ((3/30133)x100)
+		= 0.01 % 
+		
+Jitter : Total Jitter = 258,963188 s
+	 Rata-rata jitter = 0,008594291 s = 8,594291ms
+ 
